@@ -1,0 +1,21 @@
+body{
+    background-image: url("50-Beautiful-and-Minimalist-Presentation-Backgrounds-052.jpg");
+    color:whitesmoke;
+    text-align:justify;
+}
+.header{
+    float:center;
+}
+.gallery{
+    float:center;
+    text-align:center;
+    color:whitesmoke;
+
+
+}
+
+footer{
+    text-align:center;
+    margin:0 auto;
+    color:white;
+    font-size:20px;
